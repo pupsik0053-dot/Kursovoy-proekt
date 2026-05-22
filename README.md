@@ -342,17 +342,14 @@ $$
 барометрического высотомера и оптического дальномера в задачах
 управления БЛА // Труды МАИ. – 2020. – № 115.
 2. ГОСТ Р 7.0.5‑2008. Библиографическая ссылка. Общие
-требования и правила составления. – М.: Стандартинформ,
-2008.
+требования и правила составления. – М.: Стандартинформ,2008.
 3. Макаров С.Б., Павлов В.А. Применение ПИД-регуляторов в
 системах стабилизации мультироторных роботов. – СПб.: Университет
 ИТМО, 2022. – 56 с.
 4. Application Note AN‑1278: Understanding CRC8 Polynomials for
 Sensor Data Validation / NXP Semiconductors. 2019.
-5. Ardupilot Copter: Altitude Hold Mode Source Code [Электронный
-ресурс] GitHub. 
-6. TeraRanger Evo Mini Datasheet [Электронный ресурс] / Terabee. –
-2023. 
+5. Ardupilot Copter: Altitude Hold Mode Source Code  
+6. TeraRanger Evo Mini Datasheet [Электронный ресурс] / Terabee. – 2023. 
 
 
 
